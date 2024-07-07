@@ -1,0 +1,440 @@
+species,SpeciesID,Length,PMID
+"A. alcalica, Magadi tilapia",40169,2,"36250323, 26547282"
+"A. caviae, Aeromonas caviae",648,2,"27737605, 27737605"
+"A. gerrardii, Acacia gerrardii",875634,2,"38035483, 38035483"
+A. glaucus,40226,1,29681022
+"A. gottschalkii, Anaerobranca gottschalkii",108328,2,"18957864, 18957864"
+"A. grahami, Alcolapia grahami",87886,2,"36250323, 36250323"
+"A. halimus, Atriplex, Atriplex halimus",240028,3,"27010414, 27010414, 27010414"
+"A. littoralis, Aeluropus littoralis",110874,2,"26476701, 26476701"
+"A. penicillioides, Aspergillus penicillioides",41959,2,"27871132, 27871132"
+"A. pullulans, Aureobasidium pullulans",5580,3,"17298474, 17298474, 30400922"
+"A. thaliana, Arabidopsis, Arabidopsis thaliana",3702,9,"25308761, 31338597, 24214268, 34256694, 25496221, 31781937, 33030592, 25308761, 31338597"
+"AM-001, Bacillus sp. strain",1418,3,"15999223, 15999223, 17429572"
+AMnr1,622665,1,19779762
+"AO1, Bacillus sp. AO1",340959,2,"30105570, 30105570"
+"ATCC 43099, N. magadii, Natrialba magadii",13769,4,"22559199, 21894491, 21894491, 22559199"
+"ATCC BAA-393, DSM 14871, Tindallia, Tindallia californiensis",159292,6,"12728359, 12728359, 16932842, 12728359, 12728359, 16932842"
+"Acinetobacter Ver3, Acinetobacter sp. Ver3",466088,3,"26647770, 33645540, 30485446"
+Acinetobacter baumannii,470,1,36094301
+Acinetobacter sp,472,1,33645540
+Agarivorans sp,1872412,1,19002649
+Agarivorans sp. JAM-A1m,507618,1,19002649
+Agromyces indicus,758919,1,24817611
+"Alicyclobacillus, Alicyclobacillus sp",61169,2,"30656425, 30656425"
+Alkalibacillus haloalkaliphilus C-5,1193119,1,22887673
+Alkalibacter saccharofermentans,235931,1,15127306
+Alkalibacterium sp. TRTYP6,1581170,1,27362528
+"Alkalilactibacillus, Alkalilactibacillus ikkensis",486507,2,"22297696, 22297696"
+Alkalilimnicola halodurans,133194,1,16491340
+Alkalilimnicola sp,1872450,1,16491340
+Alkalimonas amylolytica,152573,2,"22583823, 24297704"
+Alkalispirillum mobile,85925,1,16491340
+"Alpha-proteobacteria, alpha-Proteobacteria",28211,2,"18427718, 15064989"
+Amphibacillus tropicus,173040,2,"18769867, 22297696"
+Anditalea andensis,1048983,1,26171779
+Anoxybacillus kamchatkensis,196180,1,31407121
+Antarctomyces pellizariae,1955577,1,32389811
+"Aphanothece, Aphanothece halophytica",72020,2,"24375141, 24375141"
+Aphanothece clathrata,1521602,1,15064977
+"Arthrospira, Arthrospira sp",35824,2,"28045976, 28045976"
+"Aspergillus, Aspergillus fumigatus",746128,2,"31938738, 31938738"
+Aspergillus glaucus,41413,1,29290045
+Aspergillus nidulans,162425,2,"37367588, 11354456"
+Aspergillus niger,5061,1,30863668
+Aspergillus sp,5065,1,38225962
+"B. amyloliquefaciens, Bacillus amyloliquefaciens",1390,4,"27142029, 27142029, 11699647, 35137293"
+B. anthracis,1392,1,24817611
+"B. atrophaeus, Bacillus atrophaeus",1452,2,"31218179, 31218179"
+"B. cereus, Bacillus cereus",1396,2,"37474779, 37474779"
+"B. clausii, Bacillus clausii",79880,4,"17429572, 24915287, 24915287, 17429572"
+"B. firmus OF4, Bacillus firmus OF4, Bacillus pseudofirmus",79885,3,"9783168, 9783168, 20344941"
+"B. flexus, Bacillus flexus",86664,2,"33208066, 33208066"
+"B. halmapalus, Bacillus halmapalus",79882,2,"11878564, 11878564"
+"B. halodurans, Bacillus halodurans",86665,2,"10972189, 17006740"
+"B. halodurans C-125, Bacillus halodurans C-125",272558,4,"10972189, 10972189, 10805564, 11057908"
+"B. macrocarpa, Beta macrocarpa, Beta macrocarpa Guss",343494,3,"26588061, 26588061, 26588061"
+"B. paraconglomeratum, Brachybacterium paraconglomeratum",173362,2,"36149604, 36149604"
+"B. pseudofirmus OF4, Bacillus pseudofirmus OF4, OF4",398511,5,"18048917, 20344941, 11029415, 18048917, 20344941"
+"B. subtilis, Bacillus Subtilis, Bacillus subtilis",1423,21,"30266724, 9783168, 11057908, 26026992, 24915287, 10805564, 10972189, 27114252, 9783168, 31938738, 26026992, 11139081, 18048917, 10805564, 11699647, 11057908, 27114252, 31407121, 30266724, 15999223, 11057913"
+"BCRC 17406, LMG 22826, Tepidimonas, Tepidimonas taiwanensis",307486,4,"16215773, 16215773, 16215773, 16215773"
+"BY, Black Yeasts, Black yeasts, black yeasts, by",34395,5,"29538737, 29538737, 29538737, 29538737, 29538737"
+"Bacillus, Bacillus haynesii",1925021,18,"35587636, 9672682, 18401746, 27891113, 15022105, 20344941, 34681129, 9672682, 22260050, 11699647, 30105570, 31407121, 27771767, 10805564, 9680321, 32424739, 32424739, 35587636"
+"Bacillus YN-1, YN-1",72581,2,"9672682, 9672682"
+Bacillus agaradhaerens,76935,1,22260050
+Bacillus alcalophilus,1445,1,11057913
+Bacillus arseniciselenatis,85682,1,19779762
+"Bacillus beveridgei, MLTeJB",632773,2,"19536453, 19536453"
+"Bacillus clausii KSM-K16, KSM-K16",66692,2,"27771767, 17429572"
+Bacillus cohnii,33932,1,11057913
+Bacillus halotolerans,260554,1,34681129
+"Bacillus iranensis, Bacillus iranensis-, X5B",930128,3,"26696418, 26696418, 26696418"
+Bacillus licheniformis,1402,2,"31407121, 32424739"
+Bacillus litoralis,152268,1,24817611
+Bacillus marmarensis DSM 21297,1188261,1,30457468
+Bacillus pumilus,1408,2,"31407121, 27891113"
+Bacillus rRNA group 1,1386,2,"18769867, 22297696"
+Bacillus simplex,1478,1,32050135
+"Bacillus sp, Bacillus sp.",1409,4,"11354456, 11057908, 32617734, 11057913"
+Bacillus sp. 8SB,445330,1,18401746
+Bacillus sp. KSM-635,1415,1,9680303
+"Bacillus sp. KSM-S237, KSM-S237",109789,2,"9680321, 9680321"
+Bacillus sp. N16-5,122631,1,15316858
+"Bacillus sp. NPST-AK15, Bacillus sp. strain NP, NPST-AK15",1623497,3,"26159877, 26159877, 26159877"
+"Bacillus sp. WW3-SN6, WW3-SN6",92608,2,"10972188, 10972188"
+"Bacillus sp. strai, P-4-N",122089,5,"11354456, 11139081, 19779762, 11139081, 11354456"
+"Bacillus sp. strain J, JAMB-750",253629,2,"15999223, 15999223"
+Bacillus sp. strain K,109322,1,15022105
+Bacillus subtilis str. 168,224308,1,29497843
+Bacillus tequilensis,227866,1,32424739
+Bacillus zhangzhouensis,1178540,1,32617734
+Bacillus-Clostridium group,1239,1,15252724
+"Bhargavaea, Bhargavaea cecembensis",394098,2,"35190857, 35190857"
+Brassica oleracea var,3712,1,31722266
+Brevibacillus choshinensis,54911,1,31734848
+"C. aquaticum, Chryseobacterium aquaticum",452084,2,"19888547, 19888547"
+"C. coronopifolia, Cotula coronopifolia",174445,2,"21555270, 21555270"
+"C. jejuense, Chryseobacterium jejuense",445960,2,"19888547, 19888547"
+"C. maritima, Cakile maritima",220483,2,"31048216, 31048216"
+"C. rosea, Canavalia rosea, Canavalia rosea (Sw.) DC",3825,9,"35742848, 35052375, 34256694, 33925342, 33925342, 34256694, 35052375, 35742848, 34256694"
+"C. soldanellicola, Chryseobacterium soldanellicola",311333,2,"19888547, 19888547"
+"C. soli, Chryseobacterium soli",445961,2,"19888547, 19888547"
+"C. thermarum TA2.A1, Caldalkalibacillus thermarum TA2.A1, Caldalkalibacillus thermarum strain, TA2.A1",986075,5,"37577439, 37577439, 33030592, 33030592, 33030592"
+CATs,9685,1,26859958
+"CBS 119416, Cladosporium",1052096,2,"31938738, 31938738"
+"CICC 11012s, Halomonas alkalicola",1930622,4,"29270851, 33123748, 33123748, 29270851"
+Caenorhabditis elegans,6239,1,31564490
+Caldanaerovirga acetigignens,447595,1,19625440
+Candida albicans,5476,1,31938738
+"Candidatus Heliomonas lunata, Candidatus Heliomonas lunata'",553978,2,"22588563, 22588563"
+Cellulomonas fimi,1708,1,15999223
+Cellvibrio japonicus,155077,1,15999223
+Chitinophaga pinensis,79329,1,22052561
+Chlamydomonas sp. ICE-L,309537,1,20373120
+Chloromonas nivalis,201319,1,23625082
+"Chryseobacterium, Chryseobacterium greenlandense",345663,2,"19888547, 19888547"
+Chthoniobacter flavus,191863,1,37474779
+Chungangia koreensis,752657,1,24817611
+Cladosporium sp,1707700,1,34228196
+"Cloning, cloning vector (pUC19)",31851,2,"35137293, 35137293"
+Clostridium intestinale stra,1294142,1,36094301
+Colletotrichum gloeosporioides f. sp. malvae,96478,1,11354456
+"Collophora, Collophora sp",2011735,2,"27215207, 27215207"
+Congregibacter litoralis,393662,1,18385928
+"Cryptococcus, Cryptococcus sp. T11-10-1",1847937,2,"27215207, 27215207"
+Cryptococcus liquefaciens,104408,1,17298474
+Cryptococcus) friedmannii,89922,1,30266724
+Curvularia lonarensis,1912045,1,27920761
+Curvularia pseudorobusta,554547,1,27920761
+Curvularia sp.,1715225,1,27920761
+Cyanidioschyzon merolae,45157,1,24726350
+"D. acidophila, Dunaliella acidophila",38272,2,"27484342, 27484342"
+"D. alkaliphilus, Dethiobacter alkaliphilus",427926,3,"37520367, 24030483, 37520367"
+D. lacustre Z-7951,935942,1,23881259
+"D. maris, Dietzia maris",37915,2,"9783184, 9783184"
+"D. radiodurans, Deinococcus radiodurans",1299,2,"20657662, 20657662"
+"DY-A, Pseudomonas, Pseudomonas stra",221588,3,"12910392, 12910392, 12910392"
+Deinococcus radiodurans DSM 20539,1121384,1,36000901
+Dermatocarpon polyphyllizum,172334,1,30282060
+"Desulfonatronovibrio, Desulfonatronovibrio magnus",698827,2,"21479878, 21479878"
+Desulfonatronovibrio thiodismutans,617000,1,21479878
+"Desulfonatronum, Desulfonatronum thiosulfatophilum",617002,3,"21479878, 23881259, 21479878"
+"Desulfonatronum buryatense, Ki4, Ki5",489971,3,"23881259, 23881259, 23881259"
+Desulfonatronum thioautotrophicum,617001,1,21479878
+Desulfonatronum thiodismutans,159290,1,21605309
+Desulfurispira natronophila,682562,1,20407798
+Desulfurivibrio alkaliphilus,427923,1,24030483
+Desulfurivibrio sp. AMeS2,1398908,1,24030483
+Dictyostelium discoideum,44689,1,11878564
+Didymella glomerata,749621,1,31938738
+Didymellaceae sp,1907517,1,37029326
+"Dietzia, Dietzia natronolimnaios",161920,2,"9783184, 9783184"
+Dietzia sp,1871616,1,36031955
+"E. albidus, Enchytraeus, Enchytraeus albidus",6390,3,"29689924, 29689924, 29689924"
+"E. coli, Escherichia coli",562,37,"36362210, 21894491, 32528424, 36000998, 31407121, 29932648, 38252174, 33123748, 24996797, 22327111, 24375141, 24297704, 36131073, 31734848, 24915287, 35137293, 24375141, 22327111, 33515353, 25450641, 31338597, 24297704, 11699647, 9783168, 24996797, 36131073, 17215355, 16601914, 26026992, 17006740, 31938738, 38252174, 30863668, 15844013, 29270851, 18048917, 26171779"
+E. halophilus,251717,1,34402982
+"E. ivorense, Erythrophleum ivorense",53877,2,"30716444, 30716444"
+"E. salsugineum, Eutrema salsugineum, T. salsuginea, Thellungiella salsuginea",72664,9,"31481201, 31481201, 25496221, 31781937, 24214268, 25308761, 24214268, 25308761, 25496221"
+"E. sibiricum, Exiguobacterium sibiricum",332410,2,"18335164, 18335164"
+E. suaveolens,69058,1,30716444
+"E. thermarum, Echinamoeba, Echinamoeba thermarum",197648,3,"12910386, 12910386, 12910386"
+"EF43, Halomonas sp. EF43",133486,2,"11778838, 11778838"
+"EGI 80432, Egicoccus halophilus",1670830,2,"34402982, 34402982"
+Enchytraeus polatdemiri,2175851,1,29689924
+"Enrichment, enrichment culture",1566338,6,"19536453, 19625440, 10972192, 19218420, 19779762, 19536453"
+Epicoccum nigrum,105696,1,34228196
+Epicoccum sorghinum,749593,1,31938738
+Escherichia coli B,37762,1,36000998
+Escherichia coli BL21(DE3),469008,1,27209523
+Escherichia coli DH5alpha,668369,1,35137293
+"Euphrates poplar, P. euphratica, Populus euphratica",75702,3,"35587636, 35587636, 35587636"
+Exiguobacterium alkaliphilum,1428684,1,38010865
+Exiguobacterium sp. S17,856854,1,30485446
+"Exophiala sp. 15LV1, Exophiala sp. strai",1550092,2,"30266724, 30266724"
+Fibrobacter succinogenes,833,1,15480866
+Filamentous anoxygenic phototrophic bacteria,1106,1,26290358
+Fischerella sp,1191,1,34545451
+G. daedala,178532,1,29779132
+G. maxima,178533,1,29779132
+G. sulphuraria,130081,1,29779132
+"G. thermoleovorans, Geobacillus thermoleovorans",33941,2,"34669438, 34669438"
+"G. toebii, G. toebii (strain, Geobacillus toebii",153151,3,"21461912, 21461912, 21461912"
+Gaiella occulta,1002870,1,37474779
+Galdieria phlegrea,1389228,1,29779132
+"Geobacillus, Geobacillus sp. 95, Geobacillus sp. st",1334018,4,"24287927, 34669438, 24287927, 24287927"
+Geobacillus sp,1891658,1,31388592
+Geodermatophilus obscurus,1861,1,22359317
+Glaciozyma antarctica,105987,1,32157393
+"H. glaciei, Halomonas, Halomonas glaciei",186761,5,"12579380, 12579380, 10741837, 11778838, 12579380"
+"H. marismortui, Haloarcula marismortui",2238,2,"17215355, 17215355"
+"H. maura, Halomonas maura",117606,2,"29018969, 29018969"
+"H. miurensis, Halolactibacillus miurensis",306541,2,"22297696, 22297696"
+"H. strobilaceum, Halocnemum strobilaceum",239185,2,"35652980, 35652980"
+H. variabilis,31910,1,12579380
+"H. volcanii, Halobacterium volcanii, Haloferax volcanii",2246,3,"21894491, 7908011, 21894491"
+"H. werneckii, Hortaea werneckii",91943,2,"17298474, 17298474"
+"HB8, Thermus thermophilus",274,5,"12072958, 22212656, 28764042, 12072958, 22212656"
+"HR10B, Heliorestis, Heliorestis                         acidaminivorans, Heliorestis acidaminivorans",553427,4,"22588563, 22588563, 22588563, 22588563"
+Halalkalicoccus jeotgali,413810,1,18097633
+Halanaeroarchaeum sulfurireducens,1604004,1,33620581
+"Halarsenatibacter silvermanii, SLAS-1",321763,2,"19218420, 19218420"
+Haloarcula quadrata,182779,1,21340748
+Halobacterium salinarum,2242,2,"17406782, 12382117"
+Halocella cellulolytica,46467,1,15480866
+Haloferax elongans,403191,1,21340748
+Haloferax mediterranei,2252,1,21340748
+Halomonas alkaliantarctica,232346,1,20890499
+Halomonas aquamarina,77097,1,26439615
+Halomonas campisalis,74661,1,14572091
+Halomonas cupida,44933,1,10741837
+Halomonas desiderata,52021,1,10741837
+Halomonas elongata,2746,2,"24297704, 10741837"
+Halomonas halodenitrificans,28252,1,10741837
+Halomonas magadii,150024,1,10741837
+Halomonas sp,1486246,4,"31768644, 11778838, 36572161, 26439615"
+Halomonas sp. Y2,408656,1,27315164
+"Halomonas zhaodongensis, NEAU-ST10-25",1176240,2,"24996797, 24996797"
+Halonatronum saccharophilum,150060,1,18378586
+Halorhabdus utahensis,146826,1,19218420
+Halorhodospira halochloris,1052,1,34310933
+Halovivax sp,1935978,1,18097633
+Hedysarum multijugum,1402425,1,35398716
+Hg2,2699479,2,"37847305, 22260050"
+"Holtermanniella wattica, Holtermanniella watticus",207911,2,"30266724, 30266724"
+"Homo sapiens, human, mammalian, patients, people, women",9606,21,"15999223, 35688350, 30457468, 27891113, 30796504, 29538737, 32533304, 26733008, 37367588, 28737704, 20091326, 30400922, 22295871, 33208066, 29779132, 31564490, 27871132, 36094301, 36000901, 35587636, 30400922"
+"Hordeum vulgare L, barley",4513,2,"21974779, 21974779"
+Horseradish,3704,1,29958498
+Hypsibius dujardini,232323,1,31624306
+K. polaris,136273,1,24817611
+"L. sativus, Lathyrus sativus",3860,2,"32050135, 32050135"
+"LBB1, Rhodobaca bogoriensis stra",1188254,2,"37481751, 37481751"
+"LGG, LGG strain",568703,2,"30701281, 30701281"
+LMD-9,322159,1,30701281
+Lactobacillus sp,1591,1,29292148
+Luteibacter sp,1886636,1,32050135
+M. alcaliphilum,392018,1,36260502
+"M. aquaeolei str, VT8",351348,2,"15322951, 15322951"
+M. hydrocarbonoclasticus,2743,1,15322951
+MS2,2710868,1,33255932
+Mammoth,37349,1,31606813
+"Marinobacter, Marinobacter alkaliphilus",254719,2,"15322951, 15322951"
+Marinomonas primoryensis,178399,1,33090301
+Melghiribacillus thermohalophilus,1324956,1,31236718
+"Metagenomes, metagenomes",408169,4,"31592688, 30231921, 31592688, 34777269"
+Metapenaeus monoceros,1211424,1,31236718
+Methanococcus aeolicus,42879,1,23568449
+Methanomassiliicoccus luminyensis,1080712,1,23568449
+Methanomethylovorans thermophila,286152,1,23568449
+"Methylobacter, Methylobacter alcaliphilus, Methylomicrobium alcaliphilum",271065,3,"10879559, 10879559, 24638260"
+"Methylomicrobium, Methylomicrobium pelagicum",39776,2,"10879559, 10879559"
+Methyloversatilis universalis,378211,1,23568449
+Microbacterium hominis,162426,1,24817611
+Microcella alkaliphila,279828,1,27240670
+Monascus ruber,89489,1,27209523
+"N. azotifigens, Natronobacillus azotifigens",472978,3,"22297696, 22297696, 18769867"
+"N. benthamiana, Nicotiana benthamiana",4100,2,"36131073, 36131073"
+"N. lacusekhoensis, Nesterenkonia lacusekhoensis",150832,2,"28255636, 28255636"
+"N. thermophilus, Natranaerobius thermophilus",375929,3,"21600188, 18378586, 21600188"
+Natrialba magadii ATCC 43099,547559,1,22559199
+Natrinema sp,1917451,1,18097633
+Natronobacterium sp,1973140,1,18097633
+Natronococcus sp,35747,1,18097633
+Natronoincola histidinovorans,89959,1,15480866
+Natronolimnobius 'aegyptiacus,745377,1,21340748
+Natronolimnobius baerhuensis,253108,1,15841343
+Natronolimnobius innermongolicus,253107,1,15841343
+Natronolimnobius sp,2071605,1,18097633
+Natronomonas pharaonis,2257,1,20543878
+Natronomonas sp,2184060,1,18097633
+Nesterenkonia sp. Act20,1483432,1,30485446
+Nocardiopsis sp. str,221582,1,16601914
+Oceanithermus profundus,187137,1,38252174
+Ochrophyta,2696291,1,38133826
+"P. abyssi, Pyrococcus",29292,2,"9672687, 9672687"
+"P. aeruginosa, Pseudomonas aeruginosa",287,6,"17027868, 17027868, 26171779, 22830585, 31938738, 30304581"
+"P. arcticus, Psychrobacter arcticus",334543,2,"18335164, 18335164"
+"P. chrysogenum, Penicillium chrysogenum",5076,4,"32157393, 31938738, 38225962, 32157393"
+"P. crispa, Prasiola crispa",173492,2,"28000023, 28000023"
+"P. furiosus, Pyrococcus furiosus",2261,2,"9672687, 9672687"
+"P. palitans, Penicillium palitans",293373,2,"32157393, 32157393"
+P. pastoris GS115,644223,1,29681022
+"P. putida, Pseudomonas putida",303,2,"37474779, 37474779"
+"P. salinarum, Picocystis, Picocystis salinarum",88271,3,"36937286, 36937286, 36937286"
+"Paenibacillus, Paenibacillus sp. TCA20",1499968,2,"27771767, 27771767"
+Panagrellus redivivus,6233,1,27891113
+Pannonibacter phragmitetus,121719,1,23568449
+Paracyclops chiltoni,2586190,1,33933779
+Patescibacteria,1783273,1,32525738
+Peganum harmala,43879,1,35398716
+"Penicillium, Penicillium sp",5081,3,"32157393, 31938738, 34228196"
+Penicillium atrovenetum,69764,1,34228196
+Penicillium citrinum,5077,1,20703955
+Penicillium rubrum,1266769,1,22295871
+Petrotoga mobilis,69499,1,27351338
+Phaeosphaeriaceae sp,1756107,1,34228196
+"Phoenix dactylifera L, date palm",42345,2,"26901506, 26901506"
+Pichia pastoris,4922,1,29681022
+Planococcus halocryophilus,1005941,1,36000998
+Planococcus plakortidis,1038856,1,24817611
+Planococcus sp,1871321,1,29497843
+Planococcus sp. CGMCC 8088,1704238,1,29497843
+Polymorphum gilvum,991904,1,23568449
+Portunus segnis,470445,1,31236718
+Potato,4113,1,31938738
+"Pseudoalteromonas, Pseudoalteromonas sp",53249,2,"16133657, 16133657"
+Pseudomonas aeruginosa PAO1,208964,1,36094301
+Pseudomonas alcaliphila,101564,1,24817611
+Pseudomonas fluorescens,294,1,32050135
+Pseudothermotoga thermarum,119394,1,36362210
+"Psychrobacter, Psychrobacter sp",56811,2,"32528424, 32528424"
+Psychrobacter cryohalolentis,330922,1,32418069
+Pyrococcus horikoshii,53953,1,9672687
+"R. leguminosarum, Rhizobium leguminosarum",384,2,"32050135, 32050135"
+R. nathaliae,656708,1,37474779
+"R. stricta, Rhazya stricta",396313,2,"37667571, 37667571"
+Ramazzottius varieornatus,947166,1,31624306
+Ramonda serbica,757438,1,37474779
+"Rh. mucilaginosa, Rhodotorula mucilaginosa",5537,3,"17298474, 32157393, 17298474"
+"Rhizobium) meliloti, Sinorhizobium",382,2,"11057908, 11057908"
+Rhodobaca bogoriensis,119542,1,37481751
+Rhodococcus sp. JG3,1305835,1,32833498
+Rhodotorula dairenensis,86832,1,32157393
+Roseinatronobacter thiooxidans,121821,1,10972192
+"S. acidocaldarius, Sulfolobus acidocaldarius",2285,2,"26791382, 26791382"
+S. islandicus,43080,1,26791382
+"S. macedonicus, Streptococcus macedonicus",59310,2,"30701281, 30701281"
+S. macedonicus ACA-DC-198,1116231,1,30701281
+"S. portulacastrum, Sesuvium portulacastrum",221166,2,"27061088, 27061088"
+S. violacea,1936,1,15844013
+"Saccharomyces cerevisiae, Yeast, Yeasts, yeast, yeasts",4932,28,"37367588, 9783169, 15127306, 30266724, 30266724, 12728359, 36260502, 24214268, 19625440, 17298474, 35742848, 9783169, 22367932, 33925342, 31218179, 35052375, 33620581, 29538737, 18622572, 33404954, 34256694, 23686381, 9672687, 27737605, 17298474, 26859958, 30266724, 27215207"
+Salinibacter ruber,146919,1,18427718
+Salinivibrio sp,1886796,1,28425950
+Schizophyllum commune,5334,1,31938738
+Setaria viridis,4556,1,35398716
+Shewanella violacea DSS12,637905,1,15844013
+Sodiomyces tronii,1525349,1,28478604
+"Solanum lycopersicum, Tomato, tomato",4081,3,"26909467, 26909467, 26909467"
+"Sp. salmonicolor, Sporidiobolus salmonicolor",5005,2,"27215207, 27215207"
+"Sporidiobolus, Sporidiobolus metaroseus",454966,2,"27215207, 27215207"
+"Sporobolomyces, Sporobolomyces roseus",40563,2,"27215207, 27215207"
+Staphylococcus arlettae,29378,1,24455210
+Staphylococcus aureus,1280,2,"30863668, 11057908"
+"Strain Z, strain Z",83561,2,"15127306, 37520367"
+"Streptomyces, Streptomyces rochei",1928,2,"11699647, 11699647"
+Streptomyces lividans TK24,457428,1,33515353
+Streptomyces lopnurensis,1495572,1,33404954
+Streptomyces sp,1931,1,27903085
+Streptomyces sp. strai,133452,1,11699647
+Sulfolobus solfataricus,2287,1,10741831
+Swiss chard,3555,1,26588061
+"T. acidophilum, Thermoplasma acidophilum",2303,2,"16382574, 16382574"
+"T. brockianus, Thermus brockianus",56956,2,"12892493, 12892493"
+"T. maritima, Thermotoga maritima",2336,4,"16708165, 16708165, 7908011, 31338597"
+"T. roseum, Thermomicrobium roseum",500,2,"27896501, 27896501"
+"T. scotoductus, Thermus, Thermus scotoductus",37636,3,"30536130, 30536130, 30536130"
+T. sediminis,392725,1,38252174
+"T. texcoconensis, Tindallia texcoconensis",361365,2,"16932842, 16932842"
+"T. thermophilus HB8, Thermus thermophilus HB8",300852,3,"12072958, 22212656, 22212656"
+"T. wiegelii, Thermoanaerobacter wiegelii",46354,2,"11057912, 11057912"
+Tepidimonas sediminis,2588941,1,38252174
+Thauera sp,1905334,1,23568449
+Thelebolus balaustiformis,2072948,1,32157393
+Thermoanaerobacter sp,1755,1,17673945
+Thermobrachium celere,53422,1,9783173
+"Thermosediminibacter, Thermosediminibacter litoriperuensis",291989,2,"19625440, 19625440"
+Thermosediminibacter oceani JW/IW-1228P,555079,1,19625440
+Thermotoga maritima MSB8,243274,2,"26026992, 31338597"
+Thermotoga neapolitana,2337,1,17006740
+Thermus parvatiensis,456163,1,36721347
+Thermus sp. 2.9,1577051,1,32617733
+Thermus thermophilus HB27,262724,1,25836039
+"Thialkalivibrio, Thialkalivibrio halophilus",252474,2,"15309564, 15309564"
+Thioalkalibacter halophilus,469656,1,18309455
+Tindallia magadiensis,69895,1,12728359
+"Torrubiella, Torrubiella sp",2047592,2,"27215207, 27215207"
+Trebouxia asymmetrica,13787,1,23625082
+Trebouxia erici,60131,1,23625082
+Trebouxia glomerata,174040,1,23625082
+Triticum aestivum L,4565,1,37474779
+Turkey,9103,3,"29689924, 15959626, 29779132"
+Variovorax sp,1871043,1,32050135
+Vibrio cholerae,666,1,24297704
+Vibrio parahaemolyticus,670,1,24297704
+Vicinamibacter silvestris,1612172,1,37474779
+Viscum schimperi,1874183,1,38035483
+Xanthomonas campestris,339,1,15480866
+Xenopus,8355,1,24214268
+Xeromyces bisporus,89491,1,27871132
+Xylaria grammica,363999,1,34228196
+"Y. lipolytica, Yarrowia lipolytica",4952,2,"26859958, 26859958"
+"Zea mays, maize",4577,2,"30897508, 30897508"
+a,1582,1,9672682
+a  delta,488839,1,35384246
+a Bacillus,29564,1,30457468
+actinobacterium,1883427,2,"22359317, 27903085"
+actinomycete,100235,3,"11699647, 33404954, 22367932"
+algae,569578,10,"38133826, 22367932, 29779132, 35021589, 33819431, 32533304, 25443670, 20373120, 23625082, 11809961"
+beta-Proteobacteria,28216,2,"15064989, 16215773"
+biota,131567,3,"38225962, 22367932, 27059740"
+blue swimming crab,146765,1,31236718
+brown algae,2870,1,20373120
+cattle,9913,1,27737605
+chocolate,3641,1,38010865
+delta-Proteobacteria,28221,1,15064989
+"enrichment, enrichment cultures",1566732,14,"29450709, 15480866, 19779762, 19536453, 15064991, 36569062, 12768450, 18452025, 19888547, 15856134, 33620581, 29450709, 20407798, 15480866"
+environmental samples,33858,1,24903703
+flamingos,435638,1,32321943
+flowering plants,3398,1,22583823
+"gamma subdivision, gamma-subdivision",1236,2,"15309564, 19387766"
+green algae,3041,6,"27283019, 24281914, 22367932, 15064977, 31087168, 20373120"
+higher plants,3193,2,"12932132, 22583823"
+higher termites,46569,1,15856134
+lambda phage,10710,1,10972189
+lima bean,3884,1,37427410
+"magnetotactic, magnetotactic bacterium",2479342,2,"21605309, 21605309"
+marine bacterium,56765,2,"29497843, 26439615"
+metagenome,256318,3,"23708551, 30231921, 36414646"
+mice,10090,1,30400922
+mixed culture,1306155,2,"15999222, 22311159"
+mixed sample,1427524,1,10879559
+n. sp,37027,2,"12910386, 34389775"
+olive,4146,2,"31218179, 15252724"
+"phototrophic, phototrophic bacteria, phototrophic bacterium",52958,4,"18385928, 34310933, 18385928, 34310933"
+"plasmid, plasmid pJP4",2580,2,"11778838, 11778838"
+"purple bacteria, purple non-sulfur bacteria",1224,6,"37481751, 34310933, 31087168, 35630403, 26941731, 23609187"
+purple nonsulfur bacteria,41295,1,37481751
+purple sulfur bacteria,1046,1,37481751
+rice,4530,1,29681022
+shuttle vector,45197,3,"12072958, 26026992, 26791382"
+soybean,3847,1,27142029
+spelt,58933,1,27240670
+strain SK-1,1305,1,26791382
+termites,1912919,1,15856134
+tobacco,4097,1,22583823
+type I methanotrophs,403,1,10879559
+"uncultured, uncultured prokaryote",198431,3,"30231921, 18427718, 30231921"
+uncultured archaea,115547,1,18427718
+"uncultured bacteria, uncultured bacterium",77133,2,"32525738, 27283019"
+vascular plants,58023,1,38285274
+water bears,42241,1,31624306
+white shrimp,6689,1,31236718

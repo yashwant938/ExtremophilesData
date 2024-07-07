@@ -1,0 +1,123 @@
+Diseases,DiseasesID,Length,PMID
+Alcolapia alcalica excretes,D011507,1,36250323
+Alcolapia retain,D018457 ,1,36250323
+"Alkaliphilic Bacillus, alkaliphilic Bacillus, alkaliphilic Bacillus YN-2000, alkaliphilic bacillus",D000881,9,"9783168, 9783164, 9680303, 10805564, 19411423, 11878564, 10972188, 9672682, 11057913"
+"Alkaliphilic and alkali-tolerant fungi, alkali-halotolerant, alkali-thermotolerant",D006934,3,"37367588, 35661272, 27737605"
+"Alkaliphilic bacteria, Antarctic bacteria, alkaliphilic bacteria and alkalitolerant fungi, haloalkaliphilic phototrophic bacteria Ectothiorodospirea",C537702 ,4,"26090360, 33255932, 28478604, 37847305"
+"Alkaliphilic organisms, Extremophilic organisms, extremophilic organisms",D019965 ,3,"30457468, 37490857, 15046570"
+"Alkaliphilic/Alkali-Tolerant Fungi, alkali-tolerant filamentous fungi, halo(alkali)philic archaea",D006934 ,3,"37367588, 20703955, 33538376"
+Antarctic Peninsula Region,D003424 ,1,34228196
+Antarctic lichen Dermatocarpon polyphyllizum,D018459,1,30282060
+C3 extremophile,C565169,1,37667571
+"CVDs, Cardiovascular Diseases",D002318 ,2,"33208066, 33208066"
+"Cancer, cancer",D009369,3,"22295871, 16808526, 31734456"
+Chromoblastomycosis,D002862,1,29538737
+"Cold, cold, cold active thermophilic and psychrophilic lipases, cold-active alkaliphiles, deep-sea cold",D000067390 ,10,"27900683, 32833498, 27209523, 27900683, 33925342, 22297696, 20373120, 35688350, 16770690, 16642262"
+CotB anchor,C537277,1,26026992
+Death,D003643 ,1,26543264
+"Extremophiles-Stress-High temperatures-UV radiation-Desiccation, Stress, Stress-Tolerant Bacillus halotolerans Strain, abiotic stress, desiccation stress, hyperosmolar stress, osmotic stress, rosea to abiotic stresses, stress",D000079225,22,"28418707, 37490857, 28087527, 26909467, 34681129, 34256694, 31722266, 35190857, 38252174, 25308761, 35742848, 33643258, 34402982, 23686381, 28418707, 33925342, 38285274, 24281914, 35052375, 35742848, 25308761, 22583823"
+"Extremophilic Actinomycetes Strains, alkaliphilic actinomycetes, haloalkaliphilic actinomycete",D000193 ,3,"33977442, 22327111, 33404954"
+Extremophilic Oxidoreductases,D054882 ,1,34458243
+Extremophilic Yeast Yarrowia Lipolytica,D002181 ,1,26859958
+"Extremophilic actinomycetes, extremophile actinomycetes, tolerant alkaliphilic actinomycetes",D000193,3,"33977442, 30863668, 22327111"
+"Extremophilic lipases, alkaliphilic lipases, extremophilic lipases",614025,3,"35688350, 35688350, 35688350"
+"Extremophilic microbial metabolism, alkaliphilic microbial",D015163,2,"37839067, 30796504"
+F(1)F,102510,1,21600188
+KPD,D003922 ,1,36094301
+"Klebsiella, Klebsiella enzyme",D007710,2,"15064989, 19002649"
+"Leonardo di, death",D003643,4,"27283019, 33208066, 38285274, 27891113"
+MBC,D001943,1,27891113
+Mauritia flexuosa palm,C535620,1,30304581
+"MotPS of alkaliphilic Bacillus, MotPS-type flagellar motor of alkaliphilic Bacillus alcalophilus AV1934",D000881 ,2,"27771767, 27771767"
+N-E Tunisia,D016751,1,21555270
+"Novel alkaliphilic, new alkaliphilic, novel alkaliphilic organotrophic",C000657245,3,"15322951, 36581887, 10741837"
+P deficiency,C537241,2,"26476701, 21974779"
+"P stress, Stresses, abiotic stresses, alkali stresses, osmotic stresses, pH-Stress, stresses",D000079225 ,12,"21974779, 35742848, 33925342, 35052375, 35742848, 24214268, 22583823, 35742848, 26859958, 30897508, 30457468, 38252174"
+Paraliobacillus quinghaiensis YIM-C158(T,D001260 ,1,22297696
+Paraliobacillus ryukyuensis O15-7(T,D020754,1,22297696
+Phosphorus deficiency,D010760 ,1,21974779
+SDS,D000081003,1,12910392
+SLAS-1(T,D049932,1,19218420
+SRCD,D011832,1,27351338
+Strain SLAS-1(T,D013180 ,1,19218420
+Streptococcus thermophilus LMD-9 and Lactobacillus rhamnosus GG,C537267,1,30701281
+"Toxicity, cytotoxicity",D064420 ,2,"28737704, 36094301"
+acidic solfatara,D011015,1,24414409
+acidophilic Acidiphilium,D000239 ,1,19411423
+acute myocardial infarction,D009203 ,1,33208066
+alarming rise,D051270,1,27362528
+"algal blooms, blooms",D001816,3,"35384246, 37987855, 35384246"
+"alkaliphilic S, extremophilic proteins",D018455,2,"28478604, 7908011"
+alkaliphilic adaptation,D018489 ,1,30457468
+"alkaliphilic bacteria, alkaliphilic or psychrophilic bacteria, alkalithermophilic bacteria, exceptions extremophilic bacteria, extremophile bacteria, extremophilic bacteria, haloalkaliphilic bacteria, haloalkaliphilic phototrophic bacteria Ectothiorhodospirea, halophilic/psychrophilic bacteria",C537702,17,"33123748, 26090360, 33030592, 15127306, 20344941, 16770690, 9783173, 8688447, 33255932, 29958498, 31025057, 32323057, 33799130, 24030483, 16491340, 37847305, 32833498"
+alkaliphilic bacterial genera,D016920,1,23609187
+alkaliphilic fungus,D009181 ,1,28478604
+alkaliphilic glycosyl hydrolase,C531854,1,20703955
+alkaliphilic metabolism,D008659 ,1,33030592
+cerebral phaeohyphomycosis,D060425 ,1,29538737
+"chemolithoautotrophic genus Acidithiobacillus, genus Curvularia, genus Ralstonia",D056304,3,"23708551, 27920761, 18427718"
+chemolithoautotrophic iron reducer,C536418,1,37520367
+chromoblastomycosis,D002862 ,1,29538737
+conidial swelling,D004487,1,27871132
+"decrease of alkaliphilic tolerance, tolerant alkaliphilic",D018149 ,2,"33123748, 22327111"
+deep Antarctic,D057887,1,18622572
+deep-sea psychrophilic,D009041 ,1,12910392
+"dehydrated thallus of the Antarctic, dehydration",D003681 ,6,"28000023, 33925342, 29958498, 31624306, 22830585, 27061088"
+depression,D000275,2,"35398716, 24859438"
+dry matter,D015352,1,30897508
+dryness,D014987,5,"26733008, 36414646, 38285274, 30485446, 26543264"
+exclusive haloalkaliphilic,C580202 ,1,36937286
+extremophile nematodes,D009349,1,31564490
+extremophile viviparous nematode,D009349 ,1,37427410
+extremophilic algal strain Galdieria sulphuraria,D013180,1,35021589
+"extremophilic conditions, hyperosmotic conditions",D000071069,2,"37982082, 36937286"
+extremophilic oxidoreductases,D054882,1,34458243
+fascinating alkaliphiles' pH homeostasis,D010677,1,31273417
+fitness,D012640,3,"33404954, 37520367, 17298474"
+flagellar rotation,D009069,1,27771767
+fragile habitats,D005600,1,30888506
+genus Alcolapia,D056304 ,2,"36250323, 26547282"
+glucose metabolism,D044882 ,1,36937286
+hallmarks linking alkaliphilic bacteria,D053632 ,1,33030592
+"halo(natrono)archaea, halo-alkaliphilic microbes",D055882 ,2,"33538376, 37982082"
+haloalkaliphile's metabolism,D008659,1,20543878
+haloalkaliphilic organisms,D019965,1,26025020
+haloalkaliphilic sulfur-reducing bacterium Desulfurispirillum alkaliphilum,C564972,1,20407798
+halotolerant fungus Aspergillus glaucus CCHA,D001228,1,29681022
+"hyper-alkaline, hyper-thermostability",D053306,2,"22350256, 33515353"
+hypersaline anoxic habitats,D002534,1,33538376
+hypertrophic,D006984,1,28389755
+hypertrophic condition,D000071069 ,1,28389755
+"infected branch, subcutaneous infection",D007239 ,2,"38035483, 29538737"
+infection,D007239,2,"38035483, 36721347"
+infectious diseases,D003141,1,36094301
+insufficiency,D000309,1,36572161
+ischemic heart disease,D003324 ,1,33208066
+leukemia,D007938 ,1,22295871
+leukemia cancer,D009369 ,1,22295871
+low toxicity,D009800 ,1,34458243
+migraine,D008881,1,12932132
+motile pleomorphic flats,D015835,1,15841343
+neutrophilic haloarchaea,C564275 ,1,33538376
+neutrophilic heliobacteria,C564275,1,22588563
+"novel alkaliphilic bacillus, novel haloalkaliphilic archaea",C000657245 ,2,"18401746, 15841343"
+osteoporosis,D010024,1,30400922
+ovarian cancer,D010051 ,1,16808526
+paralytic,D007418 ,1,28737704
+permanently cold,D003638,2,"27900683, 16770690"
+pressurization,D006973,1,15844013
+psychrotolerant species of Cyanobacteria,C564159,1,26045157
+"radiation damage, synchrotron radiation circular dichroism",D011832 ,2,"28418707, 27351338"
+rheumatic disorders,D012216,1,36000901
+rigidity,D009127,1,27278384
+"shock, shock proteins",D012769 ,4,"35742848, 38252174, 20373120, 38252174"
+stroke,D020521 ,1,33208066
+toxicity,D064420,5,"37317247, 29932648, 14572091, 27061088, 17673945"
+toxicity symptoms,D051271,1,27061088
+turnover of dead organic matter,D001926 ,1,27871132
+vacuolar H,C536522,1,9783169
+vacuolar pH,C536522 ,1,9783169
+vasa deferentia,C535984,1,29689924
+vascular disease,D000783 ,1,33208066
+water deficit stress,D003681,1,31048216
+water deficits,D000069578,1,25496221
